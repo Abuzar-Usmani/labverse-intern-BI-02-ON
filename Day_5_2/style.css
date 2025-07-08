@@ -1,0 +1,22 @@
+h{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+.P2{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight:bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1,6;
+}
+.P2{
+    font: size 16px; ;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+line-height: 1,6;
+}
+a{
+    text-transform: none;
+    font-weight: bold;
+}
